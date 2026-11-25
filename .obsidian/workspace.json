@@ -194,8 +194,11 @@
       "footnote-list:Open footnote list": false
     }
   },
-  "active": "c621cf5aa8968ec8",
+  "active": "15014ceefa497d3c",
   "lastOpenFiles": [
+    "0-INBOX/raw-data/དགེ་ལུགས།/ཕར་ཕྱིན་གཉིས་པའི་དྲི་བ་དྲི་ལན།_༢༠༢༢ (5).pdf",
+    "0-INBOX/raw-data/དགེ་ལུགས།/དགེ་ལུགས་པའི་གྲབ་མཐའ་བྱུང་ཚུལ་སྐབས་ཀྱི་དྲི་བ་དང་ལན་ཕྱོགས་སྒྲིགས།.pdf",
+    "0-INBOX/raw-data/དགེ་ལུགས།/空白 20.pdf",
     "0-INBOX/raw-data/རྙིང་མ།",
     "0-INBOX/raw-data/ཇོ་ནང་།",
     "0-INBOX/raw-data/བཀའ་བརྒྱུད།",
@@ -205,10 +208,7 @@
     "gemini-scribe/Scheduled-Tasks/Runs",
     "gemini-scribe/Skills",
     "gemini-scribe/Background-Tasks",
-    "gemini-scribe/Agent-Sessions",
-    "gemini-scribe/Scheduled-Tasks/scheduled-tasks-state.json",
     "gemini-scribe/Prompts/example-expert.md",
-    "gemini-scribe/Scheduled-Tasks",
     "CLAUDE.md",
     "4-SYSTEM/Skills/epub-to-markdown/converters/README.md",
     "4-SYSTEM/Skills/verse-context/SKILL.md",
