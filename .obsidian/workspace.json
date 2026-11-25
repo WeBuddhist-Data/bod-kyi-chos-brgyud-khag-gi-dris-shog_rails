@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-SOURCES/Commentaries/ཐག་རྐྱེན་ཐག་འབྲས་ཀྱི་ཟིན་བྲིས།.md",
+                "file": "1-SOURCES/Commentaries/སེར་སྨད་སློབ་དཔོན་དང་པོའི་འདུལ་བའི་དྲི་ལན།.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ཐག་རྐྱེན་ཐག་འབྲས་ཀྱི་ཟིན་བྲིས།"
+              "title": "སེར་སྨད་སློབ་དཔོན་དང་པོའི་འདུལ་བའི་དྲི་ལན།"
             }
           }
         ]
@@ -200,8 +200,12 @@
   },
   "active": "c621cf5aa8968ec8",
   "lastOpenFiles": [
-    "0-INBOX/raw-data/དགེ་ལུགས།/སློབ་དཔོན་དང་པོ།_འདུལ་བ།(1).pdf",
+    "1-SOURCES/Commentaries/ཕར་ཕྱིན་གཉིས་པའི་དྲི་བ་དང་དྲི་ལན་ཕྱོགས་བསྒྲིགས།.md",
+    "1-SOURCES/Commentaries/དབུ་མའི་དྲི་བ་དྲི་ལན་ཕྱོགས་བསྒྲིགས།.md",
+    "1-SOURCES/Commentaries/ཐག་རྐྱེན་ཐག་འབྲས་ཀྱི་སྡོམ།.md",
     "1-SOURCES/Commentaries/ཐག་རྐྱེན་ཐག་འབྲས་ཀྱི་ཟིན་བྲིས།.md",
+    "1-SOURCES/Commentaries/སེར་སྨད་སློབ་དཔོན་དང་པོའི་འདུལ་བའི་དྲི་ལན།.md",
+    "0-INBOX/raw-data/དགེ་ལུགས།/སློབ་དཔོན་དང་པོ།_འདུལ་བ།(1).pdf",
     "0-INBOX/raw-data/དགེ་ལུགས།/5_6131991066959676740.pdf",
     "0-INBOX/raw-data/དགེ་ལུགས།/༄༅།།_ཐག་རྐྱེན་ཐག་འབྲས་ཀྱི་ཟིན་བྲིས།.pdf",
     "0-INBOX/raw-data/དགེ་ལུགས།/空白 20.pdf",
@@ -232,9 +236,6 @@
     "4-SYSTEM/Skills/glossary-select/SKILL.md",
     "4-SYSTEM/Skills/interlinear-gloss/SKILL.md",
     "4-SYSTEM/Skills/glossary-combine/SKILL.md",
-    "4-SYSTEM/Skills/glossary-extract-raw/SKILL.md",
-    "4-SYSTEM/Skills/format-commentary/SKILL.md",
-    "4-SYSTEM/Skills/format-root-text/SKILL.md",
-    "4-SYSTEM/Skills/epub-to-markdown/SKILL.md"
+    "4-SYSTEM/Skills/glossary-extract-raw/SKILL.md"
   ]
 }
