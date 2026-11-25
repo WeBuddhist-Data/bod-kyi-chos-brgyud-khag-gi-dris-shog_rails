@@ -1,0 +1,30 @@
+# Obsidian workspace state (per-machine, not shared)
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache
+
+# Plugin data files (per-machine credentials / state)
+.obsidian/plugins/obsidian-git/data.json
+.obsidian/plugins/gemini-scribe/data.json
+
+# System junk
+.trash/
+.DS_Store
+
+# Python bytecode (created whenever a script runs)
+__pycache__/
+*.pyc
+
+# Claude Code worktrees (local only)
+.claude/worktrees/
+
+# library-upload: ids created per environment (local; keep a backup) and its reports
+4-SYSTEM/ledgers/
+4-SYSTEM/reports/
+
+# Secrets (API keys)
+.env
+4-SYSTEM/scripts/.env
+
+# Audio recordings (downloaded separately, never committed)
+/Audio/
