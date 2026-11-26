@@ -11,28 +11,17 @@
             "id": "c621cf5aa8968ec8",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "0-INBOX/raw-data/དགེ་ལུགས།/དགེ་ལུགས་པའི་གྲབ་མཐའ་བྱུང་ཚུལ་སྐབས་ཀྱི་དྲི་བ་དང་ལན་ཕྱོགས་སྒྲིགས།.pdf"
+                "file": "1-SOURCES/Commentaries/ཐག་རྐྱེན་ཐག་འབྲས་ཀྱི་ཟིན་བྲིས།.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "དགེ་ལུགས་པའི་གྲབ་མཐའ་བྱུང་ཚུལ་སྐབས་ཀྱི་དྲི་བ་དང་ལན་ཕྱོགས་སྒྲིགས།"
-            }
-          },
-          {
-            "id": "3e25ab75bc549123",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "0-INBOX/raw-data/དགེ་ལུགས།/མཛོད་ཀྱི་སྐོར་རྟགས་གསལ།_.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "མཛོད་ཀྱི་སྐོར་རྟགས་གསལ།_"
+              "icon": "lucide-file",
+              "title": "ཐག་རྐྱེན་ཐག་འབྲས་ཀྱི་ཟིན་བྲིས།"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -209,21 +198,24 @@
       "footnote-list:Open footnote list": false
     }
   },
-  "active": "3e25ab75bc549123",
+  "active": "15014ceefa497d3c",
   "lastOpenFiles": [
+    "1-SOURCES/Commentaries/མཛོད་ཀྱི་དྲི་ལན་རྟོགས་ལྡན་གྱི་གོལ་ས.md",
+    "1-SOURCES/Commentaries/རྣམ་འགྲེལ་ལེའུ་དང་པོའི་དྲིས་ལན།.md",
+    "0-INBOX/raw-data/དགེ་ལུགས།/དགེ་ལུགས་པའི་གྲབ་མཐའ་བྱུང་ཚུལ་སྐབས་ཀྱི་དྲི་བ་དང་ལན་ཕྱོགས་སྒྲིགས།.pdf",
+    "1-SOURCES/Untitled.md",
+    "AGENTS.md",
+    "0-INBOX/raw-data/དགེ་ལུགས།/WhatsApp Image 2026-11-24 at 10.11.02 PM.jpeg",
+    "0-INBOX/raw-data/དགེ་ལུགས།/མཛོད་ཀྱི་སྐོར་རྟགས་གསལ།_.pdf",
     "0-INBOX/raw-data/དགེ་ལུགས།/མཛོད་དྲི་ལན།.pdf",
     "0-INBOX/raw-data/དགེ་ལུགས།/བཀའ་གཉིས་རྣམ་འགྲེལ་༢༠༢༢.pdf",
-    "0-INBOX/raw-data/དགེ་ལུགས།/མཛོད་ཀྱི་སྐོར་རྟགས་གསལ།_.pdf",
     "0-INBOX/raw-data/དགེ་ལུགས།/སློན་དཔོན་དང་པོ།_མཛོད།.pdf",
     "0-INBOX/raw-data/དགེ་ལུགས།/ལྔ་ཕྲུགས་ཉེར་གཅིག་གི་རེའུ་མིག_Dorjee_Gyaltsen_.pdf",
     "0-INBOX/raw-data/དགེ་ལུགས།/རྣམའགྲེལལའུདངཔོའིདྲིསལན (1).pdf",
     "conflict-files-obsidian-git.md",
-    "0-INBOX/raw-data/དགེ་ལུགས།/དགེ་ལུགས་པའི་གྲབ་མཐའ་བྱུང་ཚུལ་སྐབས་ཀྱི་དྲི་བ་དང་ལན་ཕྱོགས་སྒྲིགས།.pdf",
     "0-INBOX/raw-data/དགེ་ལུགས།/གདམས་ངག་གི་རེའུ་མིག_Dorjee_Gyaltsen_.pdf",
-    "0-INBOX/raw-data/དགེ་ལུགས།/WhatsApp Image 2026-11-24 at 10.11.02 PM.jpeg",
     "0-INBOX/raw-data/དགེ་ལུགས།/5_6321189912561325431.pdf",
     "0-INBOX/raw-data/དགེ་ལུགས།/5_6271716338897524248.pdf",
-    "0-INBOX/raw-data/དགེ་ལུགས།/5_6131991066959676740.pdf",
     "1-SOURCES/Commentaries/དྲང་ངེས་དྲི་ལན་སྤྱི་ལོ༢༠༡༩ལོའི་བཀའ་རམ་དང་པོའི་འཛིན་གྲྭ་ནས་ཕྱོགས་སྒྲིག་བྱས།.md",
     "1-SOURCES/Commentaries/༢༠༡༩ ལོའི་ལེགས་བཤད་སྙིང་པོའི་དྲི་ལན།.md",
     "1-SOURCES/Commentaries/མཛོད་གནས་གསུམ་པ་འཇིག་རྟེན་བསྟན་པའི་གནས།.md",
@@ -244,9 +236,6 @@
     "CLAUDE.md",
     "4-SYSTEM/Skills/epub-to-markdown/converters/README.md",
     "4-SYSTEM/Skills/verse-context/SKILL.md",
-    "4-SYSTEM/Skills/vault-audit/SKILL.md",
-    "4-SYSTEM/Skills/translation-frontmatter/SKILL.md",
-    "4-SYSTEM/Skills/source-property-extractor/SKILL.md",
-    "4-SYSTEM/Skills/structural-outline-ingest/SKILL.md"
+    "4-SYSTEM/Skills/vault-audit/SKILL.md"
   ]
 }
