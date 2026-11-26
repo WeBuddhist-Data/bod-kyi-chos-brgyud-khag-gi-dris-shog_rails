@@ -11,14 +11,12 @@
             "id": "c621cf5aa8968ec8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "1-SOURCES/Commentaries/ཐག་རྐྱེན་ཐག་འབྲས་ཀྱི་ཟིན་བྲིས།.md",
-                "mode": "source",
-                "source": false
+                "file": "0-INBOX/raw-data/དགེ་ལུགས།/༄༅།།_ཐག་རྐྱེན་ཐག་འབྲས་ཀྱི་ཟིན་བྲིས།.pdf"
               },
-              "icon": "lucide-file",
-              "title": "ཐག་རྐྱེན་ཐག་འབྲས་ཀྱི་ཟིན་བྲིས།"
+              "icon": "lucide-file-text",
+              "title": "༄༅།།_ཐག་རྐྱེན་ཐག་འབྲས་ཀྱི་ཟིན་བྲིས།"
             }
           }
         ]
@@ -198,14 +196,15 @@
       "footnote-list:Open footnote list": false
     }
   },
-  "active": "15014ceefa497d3c",
+  "active": "c621cf5aa8968ec8",
   "lastOpenFiles": [
+    "0-INBOX/raw-data/དགེ་ལུགས།/WhatsApp Image 2026-11-24 at 10.11.02 PM.jpeg",
+    "1-SOURCES/Commentaries/ཐག་རྐྱེན་ཐག་འབྲས་ཀྱི་ཟིན་བྲིས།.md",
     "1-SOURCES/Commentaries/མཛོད་ཀྱི་དྲི་ལན་རྟོགས་ལྡན་གྱི་གོལ་ས.md",
     "1-SOURCES/Commentaries/རྣམ་འགྲེལ་ལེའུ་དང་པོའི་དྲིས་ལན།.md",
     "0-INBOX/raw-data/དགེ་ལུགས།/དགེ་ལུགས་པའི་གྲབ་མཐའ་བྱུང་ཚུལ་སྐབས་ཀྱི་དྲི་བ་དང་ལན་ཕྱོགས་སྒྲིགས།.pdf",
     "1-SOURCES/Untitled.md",
     "AGENTS.md",
-    "0-INBOX/raw-data/དགེ་ལུགས།/WhatsApp Image 2026-11-24 at 10.11.02 PM.jpeg",
     "0-INBOX/raw-data/དགེ་ལུགས།/མཛོད་ཀྱི་སྐོར་རྟགས་གསལ།_.pdf",
     "0-INBOX/raw-data/དགེ་ལུགས།/མཛོད་དྲི་ལན།.pdf",
     "0-INBOX/raw-data/དགེ་ལུགས།/བཀའ་གཉིས་རྣམ་འགྲེལ་༢༠༢༢.pdf",
@@ -219,7 +218,6 @@
     "1-SOURCES/Commentaries/དྲང་ངེས་དྲི་ལན་སྤྱི་ལོ༢༠༡༩ལོའི་བཀའ་རམ་དང་པོའི་འཛིན་གྲྭ་ནས་ཕྱོགས་སྒྲིག་བྱས།.md",
     "1-SOURCES/Commentaries/༢༠༡༩ ལོའི་ལེགས་བཤད་སྙིང་པོའི་དྲི་ལན།.md",
     "1-SOURCES/Commentaries/མཛོད་གནས་གསུམ་པ་འཇིག་རྟེན་བསྟན་པའི་གནས།.md",
-    "1-SOURCES/Commentaries/ཐག་རྐྱེན་ཐག་འབྲས་ཀྱི་ཟིན་བྲིས།.md",
     "1-SOURCES/Commentaries/ཐག་རྐྱེན་ཐག་འབྲས་ཀྱི་སྡོམ།.md",
     "1-SOURCES/Commentaries/རྣམ་བཤད་སྙིང་པོའི་རྒྱན་གྱི་དྲི་ལན།.md",
     "1-SOURCES/Commentaries/བཀའ་རམས་གཉིས་པའི་རྣམ་འགྲེལ་དྲི་བ་དྲི་ལན་ཕྱོགས་བསྒྲིགས།.md",
@@ -235,7 +233,6 @@
     "gemini-scribe/Prompts/example-expert.md",
     "CLAUDE.md",
     "4-SYSTEM/Skills/epub-to-markdown/converters/README.md",
-    "4-SYSTEM/Skills/verse-context/SKILL.md",
-    "4-SYSTEM/Skills/vault-audit/SKILL.md"
+    "4-SYSTEM/Skills/verse-context/SKILL.md"
   ]
 }
