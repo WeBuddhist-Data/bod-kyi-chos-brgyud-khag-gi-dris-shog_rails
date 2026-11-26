@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "1a35d16b321779d6",
+        "id": "5bdc39c0da02efd9",
         "type": "tabs",
         "children": [
           {
-            "id": "b19a88acfbb2910b",
+            "id": "78e658911a39d29a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1-SOURCES/Commentaries/རྣམ་བཤད་སྙིང་པོའི་རྒྱན་གྱི་དྲི་བ་༢༠༡༩.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "རྣམ་བཤད་སྙིང་པོའི་རྒྱན་གྱི་དྲི་བ་༢༠༡༩"
+              "title": "New tab"
             }
           }
         ]
@@ -198,8 +194,13 @@
       "footnote-list:Open footnote list": false
     }
   },
-  "active": "b19a88acfbb2910b",
+  "active": "78e658911a39d29a",
   "lastOpenFiles": [
+    "0-INBOX/raw-data/བཀའ་བརྒྱུད།/༢༠༢༦ ཡིག་རྒྱུགས་དྲི་ཤོག.pdf",
+    "1-SOURCES/Commentaries/རྣམ་བཤད་སྙིང་པོའི་རྒྱན་གྱི་དྲི་ལན།.md",
+    "0-INBOX/raw-data/དགེ་ལུགས།/5_6271716338897524248.pdf",
+    "0-INBOX/raw-data/དགེ་ལུགས།/5_6321189912561325431.pdf",
+    "1-SOURCES/Commentaries/རྣམ་བཤད་སྙིང་པོའི་རྒྱན་གྱི་དྲི་བ་༢༠༡༩.md",
     "1-SOURCES/Commentaries/མཛོད་གནས་གསུམ་པ་འཇིག་རྟེན་བསྟན་པའི་གནས།.md",
     "1-SOURCES/Commentaries/མཛོད་ཀྱི་དྲི་ལན་རྟོགས་ལྡན་གྱི་གོལ་ས.md",
     "1-SOURCES/Commentaries/བཀའ་རམས་གཉིས་པའི་རྣམ་འགྲེལ་དྲི་བ་དྲི་ལན་ཕྱོགས་བསྒྲིགས།.md",
@@ -222,13 +223,9 @@
     "0-INBOX/raw-data/དགེ་ལུགས།/སློབ་དཔོན་དང་པོ།_ཕར་ཕྱིན་དང་པོ།_.pdf",
     "0-INBOX/raw-data/དགེ་ལུགས།/སློབ་དཔོན་དང་པོ།_ཕར་ཕྱིན་གཉིས་པ།.pdf",
     "1-SOURCES/Commentaries/སེར་སྨད་སློབ་དཔོན་དང་པོའི་ཕར་ཕྱིན་གཉིས་པའི་དྲི་བ་དྲི་ལན།.md",
-    "0-INBOX/raw-data/དགེ་ལུགས།/སློབ་དཔོན་དང་པོ།_དབུ་མ།.pdf",
-    "0-INBOX/raw-data/དགེ་ལུགས།/སློན་དཔོན་དང་པོ།_མཛོད།.pdf",
     "1-SOURCES/Commentaries/སློབ་དཔོན་དང་པོའི་དབུ་མའི་དྲི་བ་དང་དྲི་ལན་ཕྱོགས་བསྒྲིགས།.md",
     "1-SOURCES/Commentaries/སློབ་དཔོན་དང་པོའི་མཛོད་ཀྱི་དྲི་བ་དྲི་ལན་ཕྱོགས་བསྒྲིགས།.md",
     "1-SOURCES/Commentaries/རྣམ་འགྲེལ་ལེའུ་དང་པོའི་དྲིས་ལན།.md",
-    "1-SOURCES/Commentaries/རྣམ་བཤད་སྙིང་པོའི་རྒྱན་གྱི་དྲི་ལན།.md",
-    "1-SOURCES/Commentaries/རྣམ་བཤད་སྙིང་པོའི་རྒྱན་གྱི་དྲི་བ་༢༠༡༩.md",
     "1-SOURCES/Commentaries/དབུ་མའི་དྲི་བ་དྲི་ལན་ཕྱོགས་བསྒྲིགས། (1).md",
     "1-SOURCES/Commentaries/ཕར་ཕྱིན་གཉིས་པའི་དྲི་བ་དང་དྲི་ལན་ཕྱོགས་བསྒྲིགས།.md",
     "1-SOURCES/Commentaries/རྣམ་བཤད་སྙིང་པོའི་རྒྱན་གྱི་དྲི་བ་༢༠༡༩ (1).md",
