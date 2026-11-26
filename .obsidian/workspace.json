@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "331847d9b35661b4",
+        "id": "08577339159fe8de",
         "type": "tabs",
         "children": [
           {
-            "id": "c621cf5aa8968ec8",
+            "id": "db7d45ce7a5ffcd1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1-SOURCES/Commentaries/ཐག་རྐྱེན་ཐག་འབྲས་ཀྱི་ཟིན་བྲིས།.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "ཐག་རྐྱེན་ཐག་འབྲས་ཀྱི་ཟིན་བྲིས།"
+              "title": "New tab"
             }
           }
         ]
@@ -198,8 +194,9 @@
       "footnote-list:Open footnote list": false
     }
   },
-  "active": "c621cf5aa8968ec8",
+  "active": "db7d45ce7a5ffcd1",
   "lastOpenFiles": [
+    "1-SOURCES/Commentaries/ཐག་རྐྱེན་ཐག་འབྲས་ཀྱི་ཟིན་བྲིས།.md",
     "gemini-scribe/Scheduled-Tasks/Runs",
     "gemini-scribe/Skills",
     "gemini-scribe/Background-Tasks",
@@ -215,8 +212,6 @@
     "1-SOURCES/Commentaries/ཕར་ཕྱིན་གཉིས་པའི་དྲི་བ་དང་དྲི་ལན་ཕྱོགས་བསྒྲིགས།.md",
     "1-SOURCES/Commentaries/དབུ་མའི་དྲི་བ་དྲི་ལན་ཕྱོགས་བསྒྲིགས།.md",
     "1-SOURCES/Commentaries/ཐག་རྐྱེན་ཐག་འབྲས་ཀྱི་སྡོམ།.md",
-    "1-SOURCES/Commentaries/ཐག་རྐྱེན་ཐག་འབྲས་ཀྱི་ཟིན་བྲིས།.md",
-    "0-INBOX/raw-data/དགེ་ལུགས།/སློབ་དཔོན་དང་པོ།_འདུལ་བ།(1).pdf",
     "README.md",
     "gemini-scribe/Prompts/example-expert.md",
     "CLAUDE.md",
